@@ -1,5 +1,10 @@
 Hi guys
-Main scripts are ```ori_data_labeler.sh```
+Main scripts are ```ori_data_labeler.sh``` This does the actual segmenting
+There are scripts in the ```datasets``` folder which have ```ori``` in the file name:
+    ```convert_ori_data.py```
+    ```build_ori_data.py```
+
+and the folder here called ```ori_data``` shows the format needed for the data.
 
 
 
