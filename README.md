@@ -1,3 +1,9 @@
+Hi guys
+Main scripts are ```ori_data_labeler.sh```
+
+
+
+
 # DeepLab: Deep Labelling for Semantic Image Segmentation
 
 DeepLab is a state-of-art deep learning model for semantic image segmentation,
